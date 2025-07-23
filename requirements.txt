@@ -1,0 +1,9 @@
+httpx[http2]
+beautifulsoup4
+lxml
+pandas
+tqdm
+fake-useragent
+scikit-learn
+selenium
+webdriver-manager 
